@@ -8,5 +8,7 @@
 
    win:venv\Scripts\activate
    
-   mac:source venv\bin\activate
+   mac:source venv/bin/activate
 
+#start server
+py server.py
